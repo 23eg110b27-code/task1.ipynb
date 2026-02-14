@@ -1,6 +1,6 @@
 
 
-#TRANSACTION DATA ANALYSIS
+# TRANSACTION DATA ANALYSIS
 
 project Description
 
@@ -8,7 +8,7 @@ Analyze sales and transactions
 
 Find business insights
 
-#OBJECTIVES->
+# OBJECTIVES->
 
 Total sales amount
 
@@ -22,7 +22,7 @@ Top customers
 
 Best products/services
 
-#TOOLS->
+# TOOLS->
 
 Python
 
@@ -32,7 +32,7 @@ NumPy
 
 Matplotlib
 
-#DATASET->
+# DATASET->
 
 Customer ID
 
@@ -42,7 +42,7 @@ Amount
 
 Date
 
-#RUN STEPS->
+# RUN STEPS->
 
 Clone repo
 
@@ -50,7 +50,7 @@ Install libraries
 
 Run main.py
 
-#OUTPUT->
+# OUTPUT->
 
 Sales summary
 
@@ -60,6 +60,10 @@ Revenue by product
 
 Sales trend charts
 
-#NOTE->
+# NOTE->
 
 For educational use
+
+# AUTHOUR->
+
+kandaraboina pravalika
